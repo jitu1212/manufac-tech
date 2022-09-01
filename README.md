@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `yarn run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -65,7 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `yarn run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ![scatter](https://user-images.githubusercontent.com/98046486/187960301-80c0eeaa-88b9-46aa-a07f-ae0828e1f357.png)
